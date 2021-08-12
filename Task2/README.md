@@ -8,7 +8,7 @@
  - [modules](.modules/)
    - [bucket](./modules/bucket/main.tf)
    - [external_http_lb](./modules/external_http_lb/main.tf)
-   - [backend_instance_group](./instance_group/main.tf)
+   - [backend_instance_group](./modules/instance_group/main.tf)
    - [internal_http_lb](./modules/internal_http_lb/main.tf)
 
 
